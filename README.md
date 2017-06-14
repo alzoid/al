@@ -1,1 +1,3 @@
-# al
+# Al
+
+Trying out some static site stuff...
